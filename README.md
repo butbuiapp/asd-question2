@@ -161,3 +161,23 @@
     ]
 }
 ```
+
+![Create employee](https://github.com/user-attachments/assets/541d88df-41cf-4967-9941-39a4aa0eb761)
+
+![Assign 1st service](https://github.com/user-attachments/assets/707a95bd-7d2e-4020-95e2-61089101642c)
+
+![Get all employees 1](https://github.com/user-attachments/assets/bb8cd3a7-1b2a-4603-8cca-68bc2140a9df)
+
+![Assign 2nd service](https://github.com/user-attachments/assets/97045163-fe05-4bef-abc0-5846d1a563cf)
+
+![Get employee by id](https://github.com/user-attachments/assets/44d2e47b-c0a2-4516-bfa7-44f846507a9d)
+
+![Get all employees 2](https://github.com/user-attachments/assets/735e130c-f397-42ba-8c7f-180c2ecaf53a)
+
+![Update employee](https://github.com/user-attachments/assets/4627d2d9-382a-46bb-8246-bc40329adc6d)
+
+
+
+
+
+
